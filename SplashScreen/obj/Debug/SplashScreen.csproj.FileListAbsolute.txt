@@ -1,0 +1,57 @@
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe.config
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.exe
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\bin\Debug\SplashScreen.pdb
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.frmSplashScreen.resources
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.exe
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.pdb
+\\crawforddc-main\msita$\141407089\my documents\visual studio 2012\Projects\SplashScreen\SplashScreen\obj\Debug\SplashScreen.Calculator_Options.resources
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe.config
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.exe
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.pdb
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.pdb
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.Calculator_Options.resources
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmSplashScreen.resources
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+\\Crawforddc-main\msita$\141407089\My Documents\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe.config
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.exe
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.pdb
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.pdb
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmCalculator_Options.resources
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmSplashScreen.resources
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmTyping_Basic_Calculator_V1.resources
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe.config
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.exe
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.pdb
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.pdb
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csprojResolveAssemblyReference.cache
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmCalculator_Options.resources
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.FrmBtnBasicCalculator.resources
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmSplashScreen.resources
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmTyping_Basic_Calculator_V1.resources
+H:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.Cache
+E:\Programming class c#\Visual Studio 2012\Projects\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.FrmBtnBasicCalculator.resources
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe.config
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.exe
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\bin\Debug\SplashScreen.pdb
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csprojAssemblyReference.cache
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmCalculator_Options.resources
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.FrmBtnBasicCalculator.resources
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmSplashScreen.resources
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.Properties.Resources.resources
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.frmTyping_Basic_Calculator_V1.resources
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csproj.GenerateResource.cache
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.exe
+C:\Users\User\Downloads\splash\SplashScreen_Calculator\SplashScreen\obj\Debug\SplashScreen.pdb
